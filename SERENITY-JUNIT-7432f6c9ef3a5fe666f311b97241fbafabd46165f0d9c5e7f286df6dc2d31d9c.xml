@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Buscar aprendices por email" skipped="0" tests="4" time="3.21" timestamp="2023-04-26 04:51:33"><testcase name="Busqueda de aprendiz exitosa"/><testcase name="Busqueda de aprendiz fallida"/></testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Entregar reto" skipped="0" tests="7" time="5.4" timestamp="2023-04-26 04:52:05"><testcase name="Entregar reto de manera exitosa"/><testcase name="Intento de entregar reto con un id de curso y de aprendiz que no existe"/></testsuite>

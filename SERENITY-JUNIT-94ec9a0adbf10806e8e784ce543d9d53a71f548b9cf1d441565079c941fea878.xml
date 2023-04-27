@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Buscar administrador por email" skipped="0" tests="4" time="3.19" timestamp="2023-04-26 04:51:30"><testcase name="Busqueda de administrador exitosa"/><testcase name="Busqueda de admin fallida"/></testsuite>

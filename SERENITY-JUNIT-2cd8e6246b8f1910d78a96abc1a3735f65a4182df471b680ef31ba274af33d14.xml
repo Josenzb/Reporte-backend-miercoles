@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Inscribir aprendices a rutas de aprendizaje" skipped="0" tests="4" time="3.09" timestamp="2023-04-26 04:52:10"><testcase name="Inscribir aprendices en una ruta de manera exitosa"/><testcase name="Inscribir aprendices que no estan registrados en rutas que no estan registradas"/></testsuite>

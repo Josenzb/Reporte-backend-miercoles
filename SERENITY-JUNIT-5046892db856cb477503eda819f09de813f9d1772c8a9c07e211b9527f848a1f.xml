@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Obtener ruta de aprendizaje por id" skipped="0" tests="6" time="4.54" timestamp="2023-04-26 04:51:15"><testcase name="obtener ruta de aprendizaje por id"/><testcase name="Envio de un id  que no estaregistrado"/></testsuite>

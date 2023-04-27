@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Crear ruta de aprendizaje" skipped="0" tests="16" time="12.63" timestamp="2023-04-26 04:51:01"><testcase name="crear rutas de aprendizaje de manera exitosa"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;409&gt;.&#10;&#13;&#10;1 expectation failed.&#10;JSON path title doesn't match.&#10;Expected: ruta 3.5&#10;  Actual: null&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;409&gt;.
+&#13;
+1 expectation failed.
+JSON path title doesn't match.
+Expected: ruta 3.5
+  Actual: null
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;409&gt;.
+&#13;
+1 expectation failed.
+JSON path title doesn't match.
+Expected: ruta 3.5
+  Actual: null
+&#13;
+com.sofkau.stepdefinitions.CrearRutaStepDefinition.seRegistraraLaRutaYStatus(CrearRutaStepDefinition.java:66)&#13;
+✽.se registrara la ruta y status 201(file:///C:/Users/nunez/Escritorio/Automatizacion%20final/AutomatizacionBackendMatCafe/src/test/resources/features/HUB02crearruta.feature:10)&#13;
+</system-err></testcase><testcase name="crear rutas de aprendizaje  agregando cursos que no existen"/><testcase name="crear rutas de aprendizaje sin cursos"/><testcase name="crear rutas de aprendizaje con campos vacios"/><testcase name="crear rutas de aprendizaje con caracteres especiales"/><testcase name="crear rutas de aprendizaje que ya existe"/></testsuite>

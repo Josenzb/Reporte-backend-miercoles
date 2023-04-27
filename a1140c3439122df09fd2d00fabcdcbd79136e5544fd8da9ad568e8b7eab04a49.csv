@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Buscar cuentas por email","Busqueda de cuenta exitosa","SUCCESS","2023-04-26T16:51:36.86-05:00[America/Bogota]","0.0","1.58"
+"Buscar cuentas por email","Busqueda de cuentas fallida","SUCCESS","2023-04-26T16:51:38.471-05:00[America/Bogota]","0.0","2.34"
